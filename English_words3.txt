@@ -1,0 +1,1079 @@
+hi  привет
+hello  здравствуйте, привет
+sorry  извини(те)
+please  пожалуйста (прошу); угождать
+thank you  спасибо
+you are welcome  пожалуйста, не за что
+what a pity  как жаль
+(good)bye  до свидания
+people  люди
+man  мужчина (мн.ч. men
+woman  женщина (мн.ч. women
+child  ребенок (мн.ч. children
+boy  мальчик
+girl  девочка
+guy  парень
+friend  друг
+acquaintance  знакомый; знакомство
+neighbor  сосед
+guest  гость
+chief  начальник; шеф; главный; вождь
+boss  босс
+competitor  конкурент, соперник
+client  клиент
+colleague  коллега
+family  семья
+parents  родители
+father  отец
+dad(dy)  папа
+mother  мать
+mum(my)  мама
+husband  муж
+wife  жена
+son  сын
+daughter  дочь
+brother  брат
+sister  сестра
+grandfather  дед ...
+father-in-law  тесть, свекор ...
+uncle  дядя
+aunt  тетя
+cousin  двоюродный брат, двоюродная сестра
+nephew  племянник
+niece  племянница
+job  работа
+businessman  бизнесмен (мн.ч. businessmen
+teacher  учитель
+driver  водитель
+worker  рабочий
+engineer  инженер
+doctor  врач
+lawyer  адвокат, юрист
+journalist  журналист
+nurse  медсестра
+shop assistаnt  продавец
+waiter  официант
+accountant  бухгалтер
+artist  художник
+musician  музыкант
+actor  актер
+student  студент
+pupil  школьник, ученик
+animal  животное
+cat  кошка
+dog  собака
+bird  птица
+squirrel  белка
+wolf  волк
+goose  гусь (мн.ч. geese
+giraffe  жираф
+rabbit  кролик; заяц
+cow  корова
+rat  крыса
+fox  лиса
+horse  лошадь
+frog  лягушка
+bear  медведь
+mouse  мышь (мн.ч. mice
+monkey  обезьяна
+pig  свинья
+elephant  слон
+duck  утка
+country  страна; сельская местность
+Russia  Россия
+Great Britain  Великобритания
+England  Англия
+city  город
+house  дом (здание)
+home  дом (место проживания)
+building  здание; строительство
+place  место; помещать
+entrance  вход
+exit  выход
+center  центр
+yard  двор
+roof  крыша
+fence  забор
+land  земля, участок
+village  деревня, поселок
+school  школа
+university  университет
+theater  театр
+church  церковь
+restaurant  ресторан
+cafe  кафе
+hotel  гостиница
+bank  банк
+cinema  кинотеатр
+hospital  больница
+police  полиция
+post office  почта
+station  станция, вокзал
+airport  аэропорт
+shop  магазин
+pharmacy  аптека
+market  рынок
+office  офис
+company  компания, фирма
+factory  предприятие, завод, фабрика
+square  площадь
+street  улица
+road  дорога
+crossroads  перекрёсток
+stop  остановка; останавливаться
+sidewalk  тротуар
+path  тропа, тропинка
+garden  сад
+park  парк
+bridge  мост
+river  река
+forest  лес
+field  поле
+mountain  гора
+lake  озеро
+sea  море
+ocean  океан
+coast  морской берег, побережье
+beach  пляж
+sand  песок
+island  остров
+border  граница
+customs  таможня
+garbage  мусор
+waste  отходы; тратить впустую
+stone  камень
+plant  растение; завод; сажать
+tree  дерево
+grass  трава
+flower  цветок
+leaf  лист (дерева)
+flat  квартира
+room  комната
+living room  зал
+bedroom  спальня
+bathroom  ванная
+shower  душ
+toilet  туалет
+kitchen  кухня
+hall  коридор
+balcony  балкон
+floor  пол; этаж
+ceiling  потолок
+wall  стена
+stairs  ступеньки; лестница
+door  дверь
+window  окно
+windowsill  подоконник
+curtain  занавес(ка), штора
+switch  выключатель; переключать
+socket  розетка
+faucet  (водопроводный) кран
+pipe  труба; трубка
+chimney  дымовая труба
+furniture  мебель
+table  стол
+chair  стул
+armchair  кресло
+sofa  диван
+bed  кровать
+wardrobe  (платяной) шкаф
+cabinet  шкаф(чик)
+shelf  полка
+mirror  зеркало
+carpet  ковер
+fridge  холодильник
+microwave  микроволновка
+oven  печь, духовка
+stove  кухонная плита
+food  еда
+bread  хлеб
+butter  масло
+oil  растительное масло; нефть
+cheese  сыр
+sausage  колбаса, сосиска
+ham  ветчина
+meat  мясо
+beef  говядина
+pork  свинина
+lamb  баранина; ягненок
+chicken  цыпленок; курица
+cutlet  котлета
+fish  рыба; рыбачить
+egg  яйцо
+salad  салат
+mushroom  гриб
+corn  кукуруза; зерно
+porridge  каша
+oatmeal  овсянка
+soup  суп
+sandwich  бутерброд
+rice  рис
+noodles  лапша
+flour  мука
+spice  специя, пряность
+pepper  перец; поперчить
+salt  соль; посолить
+onion  лук (репчатый)
+garlic  чеснок
+sauce  соус
+vegetables  овощи
+potatoes  картофель
+carrot  морковь
+beet  свекла
+tomato  помидор
+cucumber  огурец
+cabbage  капуста
+squash  кабачок
+eggplant  баклажан
+beans  бобы
+pea  горох
+nut  орех
+fruit  фрукт(ы); плод
+apple  яблоко
+pear  груша
+banana  банан
+berry  ягода
+strawberry  клубника, земляника
+raspberry  малина
+cherry  вишня
+plum  слива
+grape  виноград
+apricot  абрикос
+peach  персик
+melon  дыня
+watermelon  арбуз
+pumpkin  тыква
+orange  апельсин; оранжевый
+mandarin  мандарин
+lemon  лимон
+pineapple  ананас
+sugar  сахар
+honey  мёд
+jam  варенье
+cake  торт
+bun  булочка
+cookie  печенье
+pie  пирог, пирожок
+sweet  конфета; сладкий
+ice-cream  мороженое
+chocolate  шоколад
+water  вода; поливать
+soda  газировка
+juice  сок
+wine  вино
+tea  чай
+coffee  кофе
+milk  молоко
+cream  сливки; крем
+yogurt  йогурт
+curd  творог
+dish  блюдо (dishes
+cup  чашка
+glass  стакан; стекло
+mug  кружка
+plate  тарелка
+spoon  ложка
+fork  вилка
+knife  нож
+saucer  блюдце
+bottle  бутылка
+napkin  салфетка
+pan  кастрюля
+frying pan  сковородка
+kettle  чайник; котел
+meal  принятие пищи, еда
+breakfast  завтрак
+lunch  обед
+dinner  ужин
+transport  транспорт;
+plane  самолет
+car  автомобиль
+tram  трамвай
+bus  автобус
+train  поезд
+ship  корабль
+bicycle  велосипед
+time  время; раз
+minute  минута
+hour  час
+week  неделя
+year  год
+century  век, столетие
+the day before yesterday  позавчера
+yesterday  вчера
+today  сегодня (днем)
+tonight  сегодня вечером (ночью)
+tomorrow  завтра
+the day after tomorrow  послезавтра
+day  день
+morning  утро
+afternoon  день (после полудня)
+evening  вечер
+night  ночь
+Monday  понедельник
+Tuesday  вторник
+Wednesday  среда
+Thursday  четверг
+Friday  пятница
+Saturday  суббота
+Sunday  воскресенье
+month  месяц
+January  январь
+February  февраль
+March  март
+April  апрель
+May  май
+June  июнь
+July  июль
+August  август
+September  сентябрь
+October  октябрь
+November  ноябрь
+December  декабрь
+season  время года; сезон
+spring  весна
+summer  лето
+autumn  осень
+winter  зима
+holiday  праздник; отпуск; каникулы
+Christmas  Рождество
+Easter  Пасха
+birthday  день рождения
+form  анкета; форма; бланк; класс; формировать, образовывать
+name  имя, фамилия; название; называть
+first name  имя
+surname  фамилия
+maiden name  девичья фамилия
+birth date  дата рождения
+place of birth  место рождения
+address  адрес
+marital status  семейное положение
+single  холостой, незамужняя; один(окий); в один конец (о билете)
+married  женатый/замужняя
+divorced  разведенный
+widowed  овдовевший
+thing  вещь
+pen  ручка
+pencil  карандаш
+book  книга
+copybook  тетрадь
+notebook  блокнот
+note  записка, запись
+dictionary  словарь
+letter  письмо; буква
+envelope  конверт
+paper  бумага
+newspaper  газета
+magazine  журнал
+(tele)phone  телефон; разговаривать по телефону
+clock  часы
+comb  расчёска; расчесывать
+TV(-set)  телевизор
+iron  утюг; железо; гладить (утюгом)
+soap  мыло; намыливать
+radio  радио
+bag  сумка
+backpack  рюкзак
+map  карта (географическая)
+card  открытка; карта (игральная); карточка
+suitcase  чемодан
+present  подарок
+camera  фотоаппарат; видеокамера
+vase  ваза
+handkerchief  носовой платок
+ball  мяч
+balloon  воздушный шар(ик)
+toy  игрушка
+ticket  билет
+luggage  багаж
+battery  батарейка, аккумулятор
+bucket  ведро
+rope  веревка
+board  доска; борт; совет (правление)
+calendar  календарь
+laptop  ноутбук
+brush  щетка; кисть, кисточка; чистить щеткой
+keyboard  клавиатура
+key  ключ; клавиша
+wheel  колесо
+steering wheel  руль
+trunk  багажник; ствол; хобот
+gas(oline)  бензин
+purse  дамская сумка; кошелек
+wallet  бумажник
+lamp  лампа
+ruler  линейка; правитель
+shovel  лопата; рыть
+machine  машина; механизм; аппарат; станок
+hammer  молоток; вбивать молотком
+scissors  ножницы
+glasses  очки
+package  посылка; упаковка
+stick  палка; придерживаться; втыкать
+glue  клей; приклеивать
+gift  подарок; дар
+towel  полотенце
+mail  почта (корреспонденция); отправлять по почте
+wire  проволока; провод
+page  страница
+torch  карманный фонарь; горелка; факел
+box  коробка, ящик; боксировать
+blanket  одеяло
+sheet  простыня; лист(ок)
+pillow  подушка
+clothes  одежда
+shoes  обувь
+boot  ботинок; сапог
+sneakers  кроссовки
+coat  пальто
+dress  платье; одевать(ся)
+suit  костюм; иск; подходить, быть к лицу, соответствовать
+shirt  рубашка
+blouse  блузка
+skirt  юбка
+glove  перчатка
+mitten  варежка
+hat  шляпа
+cap  шапка; кепка; колпачок
+jacket  пиджак; куртка
+cardigan  кофта
+scarf  шарф
+sock  носок
+sweater  свитер
+T-shirt  футболка
+tie  галстук; привязывать
+trousers  брюки, штаны
+shorts  шорты
+tights  колготки
+stockings  чулки
+jeans  джинсы
+hood  капюшон; капот
+belt  ремень, пояс
+underwear  нижнее белье
+briefs  трусы мужские
+panties  трусы женские
+bra  бюстгальтер
+body  тело; кузов
+head  голова; глава, руководитель
+face  лицо
+forehead  лоб
+nose  нос
+ear  ухо; ушко; колос
+mouth  рот
+throat  горло
+eye  глаз
+eyebrow  бровь
+lips  губы
+tooth  зуб (мн.ч. teeth
+hair  волос(ы)
+mustache  усы
+cheek  щека; наглость, нахальство
+chin  подбородок
+neck  шея
+shoulder  плечо
+chest  грудь
+heart  сердце
+stomach  желудок; живот
+back  спина; назад
+wrist  запястье
+hand  рука, кисть (руки)
+finger  палец (руки)
+nail  ноготь; гвоздь; прибивать
+elbow  локоть
+leg  нога; ножка
+knee  колено
+foot  нога, ступня; подножие; фут (мн.ч. feet
+heel  пятка; каблук
+toe  палец (ноги)
+beard  борода
+bone  кость
+health  здоровье
+healthy  здоровый
+sick  больной
+sickness  болезнь
+fever  жар, (высокая) температура
+cough  кашель; кашлять
+running nose  насморк
+sneeze  чихать
+pain  боль
+headache  головная боль
+flu  грипп
+bruise  синяк, ушиб; ушибить
+event  событие
+birth  рождение
+game  игра
+lesson  урок
+vacation  отпуск, каникулы
+party  вечеринка
+meeting  встреча; собрание
+wedding  свадьба
+negotiation  переговоры
+trip  поездка, путешествие
+death  смерть
+weather  погода
+sun  солнце
+moon  луна
+wind  ветер
+fog  туман
+rain  дождь
+snow  снег
+sky  небо
+cloud  облако
+air  воздух
+temperature  температура
+degree  градус; степень
+art  искусство
+music  музыка
+song  песня
+literature  литература
+story  рассказ, история
+movie  кино(фильм)
+film  фильм; пленка
+sculpture  скульптура; статуя
+picture  картина; фотография
+photo  фото
+advertising  реклама
+purchase  покупка, приобретение; покупать, приобретать
+size  размер
+price  цена
+money  деньги
+cash  наличные (деньги)
+discount  скидка
+account  счет (банковский)
+bill  счёт
+tip  чаевые; кончик, верхушка; совет
+measure  измерение; мера; измерять
+distance  расстояние; дистанция
+length  длина
+height  высота
+depth  глубина
+strength  сила; прочность
+speed  скорость
+kilometer  километр
+kilogram  килограмм
+pound  фунт
+feeling  чувство
+fun  веселье
+joy  радость
+fear  страх; бояться
+sadness  печаль
+passion  страсть, страстность
+pleasure  удовольствие
+happiness  счастье
+peace  мир (покой)
+love  любовь; любить
+hate  ненависть; ненавидеть
+world  мир (планета)
+soul  душа
+life  жизнь
+knowledge  знание
+task  задача, задание
+exercise  упражнение; упражняться; осуществлять
+luck  удача
+problem  проблема
+opportunity  (благоприятная) возможность
+ability  способность
+beauty  красота; красавица
+danger  опасность
+experience  опыт, переживание
+memory  память; воспоминание
+benefit  польза, выгода; приносить (извлекать) пользу
+advantage  преимущество
+profit  прибыль, доход; польза, выгода; извлекать пользу, выгоду
+habit  привычка
+reason  причина; размышлять
+consequence  (по)следствие
+meaning  значение, смысл
+means  средство, способ
+effort  усилие
+success  успех; успешный человек
+goal  цель; гол
+miracle  чудо
+science  наука
+language  язык
+word  слово
+fire  огонь; пожар; стрелять
+case  случай; дело; чехол
+circumstance  обстоятельство
+thought  мысль
+choice  выбор
+permit  разрешение; разрешать
+delivery  доставка; поставка
+achievement  достижение
+duty  обязанность; дежурный
+delay  задержка, промедление, отсрочка; откладывать, задерживать, промедлять
+relationship  отношение
+mark  оценка, отметка, знак; отметить
+mistake  ошибка
+behavior  поведение
+invitation  приглашение
+development  развитие
+decision  решение, принятие решения
+solution  решение; раствор
+advice  совет
+agreement  соглашение; согласие; договор
+list  список; перечислять
+argument  спор; аргумент
+test  тест, испытание; тестировать, испытывать
+step  шаг; ступать
+piece  кусок; часть; пьеса
+area  область, сфера, район; площадь (фигуры)
+pair  пара
+couple  пара; чета
+surface  поверхность; всплывать
+mess  беспорядок; привести в беспорядок
+question  вопрос
+what  что; какой
+who  кто
+where  где; куда
+how  как
+why  почему, зачем
+when  когда
+how many  сколько (+ слово во множественном числе)
+how much  сколько (+ слово в единственном числе)
+I  я
+you  ты; вы; Вы
+he  он
+she  она;
+it  оно
+we  мы
+they  они
+my  мой
+your  твой; ваш
+his  его (одуш.)
+her  её
+its  его (неодуш.)
+our  наш
+their  их
+from  из
+of  передает род. падеж
+to  к; в (куда)
+in  в (где)
+on  на
+under  под
+behind  позади
+with  с
+without  без
+in front of  перед
+before  до
+after  после
+between  между
+near  возле, около; близко
+for  для; в течение; на (такоето время)
+since  с (такогото времени и поныне)
+during  во время
+around  вокруг
+because of  изза
+about  о; около, приблизительно
+against  против
+among  среди
+through  через
+per  (километров) в (час)
+above  над, выше
+below  под, ниже
+number  число; количество; номер
+zero  ноль
+one  один; (заменяет предыдущее названное существительное, во мн.ч. ones)
+two  два
+three  три
+four  четыре
+five  пять
+six  шесть
+seven  семь
+eight  восемь
+nine  девять
+ten  десять
+eleven  одиннадцать
+twelve  двенадцать
+thirteen  тринадцать
+fourteen  четырнадцать
+fifteen  пятнадцать
+sixteen  шестнадцать
+seventeen  семнадцать
+eighteen  восемнадцать
+nineteen  девятнадцать
+twenty  двадцать
+thirty  тридцать
+forty  сорок
+fifty  пятьдесят
+sixty  шестьдесят
+seventy  семьдесят
+eighty  восемьдесят
+ninety  девяносто
+hundred  сто
+thousand  тысяча
+first  первый; сначала
+second  второй; секунда
+third  третий
+fourth  четвертый
+fifth  пятый
+color  цвет
+black  чёрный
+blue  голубой; синий
+brown  коричневый
+green  зелёный
+grey  серый
+red  красный
+white  белый
+yellow  жёлтый
+pink  розовый
+purple  фиолетовый; пурпурный
+old  старый
+young  молодой
+new  новый
+big  большой
+large  большой, просторный
+huge  огромный
+small  маленький
+fat  толстый, жирный; жир
+slim  тонкий, стройный
+thick  толстый; густой
+thin  тонкий
+hungry  голодный
+full  сытый; полный
+good  хороший; добрый
+excellent  отличный, превосходный, великолепный
+amazing  удивительный
+fine  прекрасный; прекрасно; утонченный; штраф; штрафовать
+bad  плохой
+terrible  ужасный
+nasty  противный
+early  ранний; рано
+late  поздний; поздно
+last  последний, прошлый
+next  следующий
+free  свободный; бесплатный
+busy  занятый
+hot  жаркий; горячий; острый (по вкусу); жарко; горячо
+warm  тёплый; тепло
+cold  холодный; холодно; холод; простуда
+cool  прохладный; прохладно; круто; охлаждать(ся)
+spicy  острый (по вкусу)
+sharp  острый (не тупой)
+blunt  тупой (нож, человек)
+stupid  глупый
+clever  умный
+smart  умный; нарядный
+nice  красивый, хороший, приятный
+beautiful  красивая (о женщине)
+handsome  красивый (о мужчине)
+attractive  привлекательный
+pretty  симпатичный; довольно
+ugly  уродливый, безобразный
+high  высокий
+tall  высокий (о росте)
+short  короткий; низкий (о росте)
+low  низкий; низко
+long  длинный; долгий
+heavy  тяжёлый
+light  лёгкий; светлый; свет
+difficult  трудный, тяжелый
+easy  легкий, нетрудный
+simple  простой
+dark  тёмный
+expensive  дорогой (по цене)
+dear  дорогой, милый
+cheap  дешёвый
+poor  бедный; плохой
+rich  богатый
+straight  прямой; прямо
+left  левый; cлева; налево
+right  правый; правильный; справа; направо; право; прямо (напр., прямо сейчас)
+wrong  неправильный
+fast  быстрый, быстро
+quick  быстрый, скорый
+slow  медленный
+soft  мягкий; нежный
+hard  твёрдый; жесткий; трудный; усердно, упорно
+sad  печальный
+glad  радостный
+happy  счастливый
+merry  веселый
+kind  добрый; вид, тип
+angry  сердитый
+evil  злой; зло
+polite  вежливый
+rude  грубый
+gentle  нежный
+brave  смелый
+coward  трусливый; трус
+shy  застенчивый
+hard-working  трудолюбивый, прилежный
+lazy  ленивый
+useful  полезный
+useless  бесполезный
+strong  сильный; крепкий
+weak  слабый
+loud  громкий
+noisy  шумный
+quiet  тихий
+calm  спокойный; спокойствие; успокаивать
+narrow  узкий
+wide  широкий
+clean  чистый; чистить, прибираться
+dirty  грязный
+tired  усталый
+honest  честный
+comfortable  удобный, комфортабельный, уютный
+strange  странный; чужой; незнакомый
+weird  странный
+own  собственный; владеть
+tasty  вкусный
+delicious  очень вкусный
+bitter  горький
+sour  кислый
+salty  соленый
+ready  готовый
+careful  внимательный; осторожный
+main  основной, главный
+able  способный
+necessary  необходимый
+important  важный
+sure  уверенный
+fit  в хорошей форме; подходить, соответствовать
+better  лучше; более хороший
+best  лучший
+worse  хуже; более плохой
+worst  худший
+more  больше (по количеству); более; еще (больше)
+most  наибольший; больше всего; большинство
+less  меньше (по количеству); менее
+least  наименьший; наименее; меньше всего
+sometimes  иногда
+never  никогда
+seldom  редко
+usually  обычно
+often  часто
+always  всегда
+soon  скоро
+recently  недавно
+well  хорошо; колодец
+far  далеко
+exactly  точно
+probably  вероятно
+maybe  может быть
+perhaps  возможно, может быть
+really  действительно, "правда?"
+of course  "конечно!"
+certainly  конечно, безусловно
+obviously  очевидно
+especially  особенно
+yes  да
+no  нет
+not  не
+this  этот
+that  тот; что (союз); который
+these  эти
+those  те
+many  много (+ слово во множественном числе)
+much  много (+ слово в единственном числе)
+few  мало (+ слово во множественном числе)
+little  мало (+ слово в единственном числе); маленький
+some  несколько; немного; некоторое количество (в утверждениях)
+any  несколько; немного; некоторое количество; какойнибудь (в вопросах); никакой (в отрицаних); любой (в утверждениях)
+somebody  ктото (в утверждениях)
+anybody  ктото (в вопросах), никто (в отрицаниях), все (в утверждениях)
+nobody  никто
+something  чтото (в утверждениях)
+anything  чтото (в вопросах), ничто (в отрицаниях), всё (в утверждениях)
+nothing  ничто
+here  здесь; сюда
+there  там; туда
+now  сейчас, теперь
+again  снова, опять
+then  потом; тогда
+than  чем (при сравнении)
+already  уже
+just  только что; просто (прямо, как раз); только; справедливый
+still  (всё) еще
+yet  еще (не)
+almost  почти
+several  несколько
+very  очень
+every  каждый
+each  каждый (по отдельности)
+(an)other  другой
+all  все; всё; весь
+such  такой
+so  так; таким образом; итак; поэтому
+up  вверх
+down  вниз
+together  вместе
+forward  вперед; передний
+even  даже
+enough  достаточно
+also  также
+too  тоже; слишком
+only  только
+and  и
+or  или
+but  но
+however  однако
+because  потому что, так как
+if  если; ли
+(al)though  хотя
+be  быть, являться *was
+do  делать (действовать) *did
+have  иметь *had had
+can  мочь (быть в состоянии) *could
+may  мочь (иметь разрешение) *might
+go  идти; ехать; уходить; уезжать *went
+find  находить *found found
+hold  держать *held held
+stand  стоять; стенд *stood stood
+sit  сидеть *sat sat
+hear  слышать *heard heard
+win  побеждать *won won
+get  получать; добираться; становиться *got got
+make  делать (изготовлять) *made made
+come  приходить, приезжать *came
+become  становиться *became
+run  бежать *ran
+see  видеть *saw
+write  писать *wrote
+fall  падать *fell
+wear  носить (одежду); одежда *wore
+take  брать *took
+give  давать; дарить *gave
+forgive  прощать *forgave
+forget  забывать *forgot
+eat  кушать *ate
+lie  лежать; лгать; ложь *lay
+lead  вести *led led
+feed  кормить; *fed fed
+say  сказать *said said
+pay  платить *paid paid
+lay  класть; накрывать (на стол) *laid laid
+drink  пить *drank
+swim  плавать *swam
+sing  петь *sang
+begin  начинать *began
+ring  звонить (в звонок), звенеть; кольцо *rang
+sink  тонуть; опускаться; погружаться; раковина *sank
+stink  вонять; вонь *stank
+fly  летать; муха *flew
+know  знать *knew
+draw  рисовать, чертить; тащить, тянуть *drew
+throw  кидать, бросать *threw
+grow  расти, выращивать *grew
+blow  дуть; взрывать; удар *blew
+speak  разговаривать *spoke
+choose  выбирать *chose
+wake  будить *woke
+break  ломать *broke
+show  показывать *showed
+cut  резать *cut cut
+put  помещать, ставить, класть *put put
+cost  стоить *cost cost
+let  позволять *let let
+shut  закрывать *shut shut
+hit  ударять *hit hit
+read  читать *read read
+send  посылать *sent sent
+spend  проводить (время); тратить *spent spent
+lend  одолжить *lent lent
+build  строить *built built
+feel  чувствовать *felt felt
+meet  встречать *met met
+sleep  спать *slept slept
+keep  хранить, держать *kept kept
+leave  покидать; оставлять; уходить; уезжать *left left
+buy  покупать *bought bought
+bring  приносить, привозить *brought brought
+teach  учить, обучать *taught taught
+think  думать *thought thought
+fight  бороться, драться; борьба, драка *fought fought
+catch  ловить; подхватить (болезнь) *caught caught
+must  быть должным
+should  быть должным (следует)
+will  для образования буд. времени
+be afraid of  бояться
+be interested in  интересоваться
+be surprised  удивляться
+have to  быть должным, вынужденным
+get up  вставать
+put on  надевать
+take off  снимать (одежду)
+live  жить
+work  работать; работа
+watch  смотреть; наблюдать; наручные часы
+wash  мыть, cтирать
+shave  брить
+try  пытаться, пробовать; попытка
+celebrate  праздновать
+smile  улыбаться; улыбка
+laugh  смеяться
+cry  плакать, кричать; плач, крик
+learn  учить(ся)
+study  учиться (в вузе); изучать; изучение
+change  (из)менять; переодеваться; изменение; сдача, мелочь
+listen  слушать
+close  закрывать
+open  открывать; открытый
+dance  танцевать
+ask  спрашивать; просить
+answer  отвечать; ответ
+collect  собирать
+want  хотеть
+like  нравиться, любить; подобно, как
+cook  варить; готовить
+bake  печь
+smell  пахнуть; нюхать; запах; нюх
+wait  ждать
+expect  ожидать
+thank  благодарить
+play  играть; спектакль, пьеса
+call  звать; звонить
+walk  гулять; идти пешком; прогулка
+smoke  курить; дым
+wish  желать; желание
+excuse  извинять; извинение; отговорка
+shout  кричать; крик
+dream  мечтать; видеть сон; мечта; сон
+hope  надеяться; надежда
+remember  (за)помнить; вспомнить
+remind  напоминать
+enjoy  наслаждаться, нравиться
+carry  нести
+explain  объяснять
+stay  оставаться; останавливаться (в гостинице)
+rest  отдыхать; отдых; остальные/ое
+turn  повернуть; поворот; очередь, черед
+lift  поднимать(ся); лифт
+believe  верить, полагать
+receive  получать
+help  помогать; помощь
+order  заказывать; приказывать; заказ; приказ; порядок
+visit  посещать; посещение, визит
+check  проверять; проверка; чек
+jump  прыгать; прыжок
+travel  путешествовать; путешествие
+talk  разговаривать; разговор
+decide  решать, принимать решение
+solve  решать (проблему); растворять
+drop  ронять; падение, снижение
+agree  соглашаться
+save  спасать; сохранять; экономить
+argue  спорить
+count  считать, подсчитывать
+surprise  удивлять; удивление; сюрприз
+worry  беспокоить(ся); беспокойство
+joke  шутить; шутка
+move  двигать(ся); переезжать; движение
+match  соответствовать, подходить; матч; спичка
+die  умирать
+influence  влиять; влияние; воздействие
+support  поддерживать; поддержка
+describe  описывать
+punish  наказывать
+intend  намереваться
+complain  жаловаться
+avoid  избегать
+return  возвращать(ся); возврат, возвращение
+disturb  беспокоить, мешать
+provide  обеспечивать
+offer  предлагать; предложение
+introduce  представлять, знакомить
+persuade  убеждать
+approve  одобрять
+appreciate  ценить; быть признательным
