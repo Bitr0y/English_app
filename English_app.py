@@ -1,12 +1,50 @@
 from tkinter import *
 import tkinter.ttk as ttk
 import random
+import json
+import codecs
+
+
+list_words = []
 
 dictionary_Eng_words = {}
 with open("English_words3.txt", encoding = 'utf-8') as file:
     for line in file:
-        key, *value = line.split()
+        key, *value = line.split('\t')
         dictionary_Eng_words[key] = value
+
+class White:
+    def __init__(self):
+        #self.root = parent
+        self.root = Tk()
+        self.root.geometry('560x600+710+240')
+        self.root.title('Easy English')
+        self.root['bg'] = "#21252b" #'#282c34'
+        self.root.overrideredirect(1)
+        self.root.mainloop()
+    def white_theme(self):
+        self.root['bg'] = "#00000"
+
+
+
+
+class Dictionary:
+    def __init__(self):
+        self.new_words_dict = {}
+    def new_word(self):
+        self.new_words_dict = {}
+        with open('dict.json', encoding='utf-8') as dict_words:
+            words = json.load(dict_words)
+        ran = random.randint(1,len(words))
+        it = words[ran]
+        #for it in words:
+        if len(it) == 3:
+            en,tr,ru = it
+        else:
+            en,ru = it
+            tr = ''
+        self.new_words_dict[en] = ru,tr
+        return en,tr,ru
 
 
 
@@ -31,7 +69,8 @@ class English:
         self.root['bg'] = "#21252b"
 
     def white_theme(self):
-        self.root['bg'] = "white"
+        a = White(self.root)
+        #self.root['bg'] = "white"
     """Learn"""
     def new_words(self):
         pass
@@ -40,6 +79,8 @@ class English:
         pass
 
     def learn(self):
+        Dictionary.new_words_dict = {}
+        print(Dictionary.new_words_dict)
         """Show Learn Window"""
         self.button_back.configure(text = '←', width = 4)
         self.button_new_words.place(x = 205, y = 220)
@@ -71,31 +112,35 @@ class English:
         учить(новые слова / повторение)
         настройки
         выход """
-        self.button_learn = Button(text = 'Изучение', font = ("roboto", 14), command = self.learn, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
+        self.button_learn = Button(root,text = 'Изучение', font = ("roboto", 14), command = self.learn, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         self.button_settings = Button(text = 'Настройки', font = ("roboto", 14), command = self.settings, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         self.button_exit = Button(text = 'Выход', font = ("roboto", 14), command = exit, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         """Button BACK Initialization"""
         self.button_back = Button(text = '←', font = ("roboto", 14), command = self.main_menu, height = 2, width = 4, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         """Initialization Learn Window"""
         """new words"""
-        self.button_new_words = Button(text = 'Новые слова', font = ("roboto", 14), command = self.see, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
+        self.button_new_words = Button(text = 'Новые слова', font = ("roboto", 14), command = self.new_words, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         self.l1 = Label( width = 35, height = 3, font = ("roboto", 20), bg ='#21252b', foreground = '#61afef', justify = CENTER)
         self.l2 = Label( width = 35, height = 3, font = ("roboto", 20), bg ='#21252b', foreground = '#c49262')
-        self.button_next = Button(text = "Дальше", font = ("roboto", 14), command = self.see, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
+        self.button_next = Button(text = "Дальше", font = ("roboto", 14), command = self.new_words, height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         self.button_repeat = Button(text = 'Повторение', font = ("roboto", 14), height = 2, width = 15, bg = '#202020', foreground = '#98c379', activebackground = '#202020')
         """Initialization Setting Window"""
         self.buttton_color_grey = Radiobutton(text = 'grey', width = 3, height = 2, bg = '#21252b', activebackground = 'red', variable = self.var, value = 0, indicatoron=0, command = self.grey_theme)
-        self.buttton_color_white = Radiobutton(text = 'white', width = 3, height = 2, bg = 'white', variable = self.var, value = 1, indicatoron=0, command = self.white_theme)
+        self.buttton_color_white = Radiobutton(text = 'white', width = 3, height = 2, bg = 'white', variable = self.var, value = 1, indicatoron=0, command = White.white_theme)
 
         """Show Main Window"""
         self.main_menu()
 
 
-    def see(self):
+    def new_words(self):
         """Initialization"""
-        eng, rus = random.choice(list(dictionary_Eng_words.items()))
-        self.l1['text'] = eng
-        self.l2['text'] = rus
+        #list_words.append(dictionary_Eng_words.popitem())
+        #eng = random.choice(list(dictionary_Eng_words.keys()))
+        #rus = dictionary_Eng_words.get(eng)
+        #rus = str(rus)
+        en, tr, ru = Dictionary.new_word(self)
+        self.l1['text'] = en
+        self.l2['text'] = ru
         self.l1.place(x = 0, y = 100)
         self.l2.place(x = 0, y = 200)
         self.button_back.configure(text = 'В меню', width = 15)
@@ -107,6 +152,13 @@ class English:
 
 
 
+
+
+class Black():
+    pass
+
+
+
 def main():
     root = Tk()
     root.geometry('560x600+710+240')
@@ -114,6 +166,8 @@ def main():
     root['bg'] = "#21252b" #'#282c34'
     root.overrideredirect(1)
     #root.attributes('-zoomed', True)
+    #a = White()
+    #a.white_theme()
     app = English(root)
     root.mainloop()
 
